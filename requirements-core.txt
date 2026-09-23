@@ -1,0 +1,13 @@
+# Python 3.11; notebooks 01-04. Keep separate from requirements-he.txt.
+numpy==1.26.4
+pandas==2.2.3
+scipy==1.13.1
+scikit-learn==1.5.0
+matplotlib==3.9.4
+pymupdf==1.25.5
+presidio-analyzer==2.2.358
+spacy==3.7.5
+Faker==37.1.0
+diffprivlib==0.6.5
+ipykernel==6.29.5
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
